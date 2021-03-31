@@ -5,27 +5,27 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 num = input("Para un login Normal ingrese 0, Para intentar fuerza bruta ingrese 1")
-if num==1 :
- 	email = input("Ingrese el mail registrado: ")
- 	while(1)
-	passw = input("Ingrese la contraseña: ")
+if num=="1" :
+	email = input("Ingrese el mail registrado: ")
+	passw = "noeslacontraseña"
 	driver = webdriver.Firefox()
 	driver.get("https://www.solotodo.cl/")
-	driver.implicitly_wait(5) # 5 segundos de espera para cargar la pagina
-
 	login = driver.find_element_by_xpath('/html/body/div[1]/div[2]/div[1]/nav/div/ul[2]/li[2]/a')
 	login.click()
 	login = driver.find_element_by_xpath('/html/body/div[1]/div[2]/div[1]/nav/div/ul[2]/li[2]/div/a[1]')
 	login.click()
-
-	elem = driver.find_element_by_id("exampleInputEmail1")
-	elem.clear()
-	elem.send_keys(email)
-	elem.send_keys(Keys.RETURN)
-	elem = driver.find_element_by_id("password")
-	elem.clear()
-	elem.send_keys(passw)
-	elem.send_keys(Keys.RETURN)
+	for i in range(100):
+		elem = driver.find_element_by_id("exampleInputEmail1")
+		elem.clear()
+		elem.send_keys(email)
+		elem.send_keys(Keys.RETURN)
+		elem = driver.find_element_by_id("password")
+		elem.clear()
+		elem.send_keys(passw)
+		elem.send_keys(Keys.RETURN)
+		print('Intento: ',i)
+	driver.implicitly_wait(5)
+	driver.close()
 else:
 
 	email = input("Ingrese el mail registrado: ")
