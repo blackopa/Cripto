@@ -1,0 +1,560 @@
+Message-Id:0100016fab27067b-3a7cfe8d-6109-4a44-ab89-110d457d1630-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90b:46c4:0:0:0:0 with SMTP id jx4csp7697966pjb; Wed, 15
+ Jan 2020 13:41:00 -0800 (PST)
+Received: from a48-38.smtp-out.amazonses.com (a48-38.smtp-out.amazonses.com.
+ [54.240.48.38]) by mx.google.com with ESMTPS id
+ e9si10861964qtk.86.2020.01.15.13.40.59 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128); Wed, 15 Jan 2020
+ 13:40:59 -0800 (PST)
+UTC:-0800 (PST)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1579124459_80d2a270f2de6e5d1e37b0bb3ad503fd_=_"
+##################################################
+Message-Id:01000170d11a75e9-d9499ba5-de10-4f87-8660-d560701924cc-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:9415:0:0:0:0 with SMTP id r21csp1351990pjo; Thu, 12
+ Mar 2020 16:35:38 -0700 (PDT)
+Received: from a8-16.smtp-out.amazonses.com (a8-16.smtp-out.amazonses.com.
+ [54.240.8.16]) by mx.google.com with ESMTPS id
+ d3si3780909qti.145.2020.03.12.16.35.37 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128); Thu, 12 Mar 2020
+ 16:35:38 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1584056137_32a7e1a2f125ebbb66d6f289c3fac2a8_=_"
+##################################################
+Message-Id:01000170f3bd8a36-5f870e01-3f07-4b85-886e-436999324c00-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:eacd:0:0:0:0 with SMTP id ev13csp2249518pjb; Thu, 19
+ Mar 2020 10:00:50 -0700 (PDT)
+Received: from a8-50.smtp-out.amazonses.com (a8-50.smtp-out.amazonses.com.
+ [54.240.8.50]) by mx.google.com with ESMTPS id
+ v136si1691044qka.106.2020.03.19.10.00.50 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128); Thu, 19 Mar 2020
+ 10:00:50 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1584637250_93ea78d823ef9c06b5dfefe6f5bf1a32_=_"
+##################################################
+Message-Id:010001713d08c5d9-74457c62-7eca-4e19-92eb-b868b4dc7124-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db57:0:0:0:0 with SMTP id u23csp1589481pjx; Thu, 2
+ Apr 2020 15:35:18 -0700 (PDT)
+Received: from a48-38.smtp-out.amazonses.com (a48-38.smtp-out.amazonses.com.
+ [54.240.48.38]) by mx.google.com with ESMTPS id
+ r14si4120944qvn.1.2020.04.02.15.35.17 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128); Thu, 02 Apr 2020
+ 15:35:17 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1585866916_6431e7f53aed7e521459758717a5d1ea_=_"
+##################################################
+Message-Id:010001716eb58f4e-f5c5465d-7f6f-42ed-90a0-f974c708d035-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90b:3106:0:0:0:0 with SMTP id gc6csp2689474pjb; Sun, 12
+ Apr 2020 07:05:26 -0700 (PDT)
+Received: from a8-19.smtp-out.amazonses.com (a8-19.smtp-out.amazonses.com.
+ [54.240.8.19]) by mx.google.com with ESMTPS id
+ q33si4430328qtj.297.2020.04.12.07.05.25 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sun, 12 Apr 2020
+ 07:05:25 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1586700324_3f2415f13b59d6fed064ac2616344a1f_=_"
+##################################################
+Message-Id:010001718574684e-403ab0ce-7828-47f3-8bfd-29ee0281fbab-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:fa95:0:0:0:0 with SMTP id cu21csp2374540pjb; Thu, 16
+ Apr 2020 17:05:31 -0700 (PDT)
+Received: from a8-190.smtp-out.amazonses.com (a8-190.smtp-out.amazonses.com.
+ [54.240.8.190]) by mx.google.com with ESMTPS id
+ l6si7375897qtk.213.2020.04.16.17.05.31 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Thu, 16 Apr 2020
+ 17:05:31 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1587081930_7f54dd9a1048b65738378d8f39d1dc8f_=_"
+##################################################
+Message-Id:01000171c8747fcf-fc46d637-e784-4925-a2ad-893637e59ce8-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:fa95:0:0:0:0 with SMTP id cu21csp1374104pjb; Wed, 29
+ Apr 2020 17:20:11 -0700 (PDT)
+Received: from a8-50.smtp-out.amazonses.com (a8-50.smtp-out.amazonses.com.
+ [54.240.8.50]) by mx.google.com with ESMTPS id
+ n3si537660qkk.381.2020.04.29.17.20.10 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Wed, 29 Apr 2020
+ 17:20:11 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1588206010_1698195bed713d8d2919cc7db624dab6_=_"
+##################################################
+Message-Id:01000171cd56705c-9f12a946-8c16-46f5-9a23-a3243f0a9411-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:fa95:0:0:0:0 with SMTP id cu21csp2541004pjb; Thu, 30
+ Apr 2020 16:05:27 -0700 (PDT)
+Received: from a48-33.smtp-out.amazonses.com (a48-33.smtp-out.amazonses.com.
+ [54.240.48.33]) by mx.google.com with ESMTPS id
+ h16si740646qvr.50.2020.04.30.16.05.26 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Thu, 30 Apr 2020
+ 16:05:27 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1588287926_cc31f736317b17e122b9ff1793925e53_=_"
+##################################################
+Message-Id:01000171dfd8b679-bf9306d7-e8d0-4adc-93ad-ae0e44c94b9e-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:fa95:0:0:0:0 with SMTP id cu21csp3706760pjb; Mon, 4
+ May 2020 06:20:54 -0700 (PDT)
+Received: from a48-38.smtp-out.amazonses.com (a48-38.smtp-out.amazonses.com.
+ [54.240.48.38]) by mx.google.com with ESMTPS id
+ x188si5964808qka.54.2020.05.04.06.20.54 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Mon, 04 May 2020
+ 06:20:54 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1588598453_e39a32a14420d1708bcf755d1c636796_=_"
+##################################################
+Message-Id:010001722f6372ba-ef80363e-773a-4ec1-a1f8-1c7124b6e1df-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb11:0:0:0:0 with SMTP id z17csp21931pjt; Tue, 19
+ May 2020 17:02:27 -0700 (PDT)
+Received: from a48-38.smtp-out.amazonses.com (a48-38.smtp-out.amazonses.com.
+ [54.240.48.38]) by mx.google.com with ESMTPS id
+ i40si646770qte.393.2020.05.19.17.02.27 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Tue, 19 May 2020
+ 17:02:27 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1589932946_ce474042fda115b55e0fa987256bc02d_=_"
+##################################################
+Message-Id:01000172536fc4ff-3521c155-0b94-47e1-b784-7a66914f2234-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb11:0:0:0:0 with SMTP id z17csp614322pjt; Tue, 26
+ May 2020 17:02:14 -0700 (PDT)
+Received: from a8-190.smtp-out.amazonses.com (a8-190.smtp-out.amazonses.com.
+ [54.240.8.190]) by mx.google.com with ESMTPS id
+ 3si864390qki.207.2020.05.26.17.02.13 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Tue, 26 May 2020
+ 17:02:13 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1590537733_a35f5dd7921f6da30f4de3a8436ae597_=_"
+##################################################
+Message-Id:010001727789f1a8-43b1418c-c764-4888-985e-30b58db54407-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp21971pjv; Tue, 2 Jun
+ 2020 17:17:09 -0700 (PDT)
+Received: from a8-190.smtp-out.amazonses.com (a8-190.smtp-out.amazonses.com.
+ [54.240.8.190]) by mx.google.com with ESMTPS id
+ c22si106882qke.168.2020.06.02.17.17.08 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Tue, 02 Jun 2020
+ 17:17:09 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1591143428_618521a253b1a4514518fc39197c1425_=_"
+##################################################
+Message-Id:010001728ac262a2-fa029725-cb53-4186-b6e2-a006ee454911-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp3116775pjv; Sat, 6
+ Jun 2020 10:51:35 -0700 (PDT)
+Received: from a48-42.smtp-out.amazonses.com (a48-42.smtp-out.amazonses.com.
+ [54.240.48.42]) by mx.google.com with ESMTPS id
+ 20si1320566qkl.45.2020.06.06.10.51.34 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sat, 06 Jun 2020
+ 10:51:35 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1591465894_8265ab309bd34ae4894950e1f8dbaebd_=_"
+##################################################
+Message-Id:0100017294c54a65-f873b627-7142-4788-b42c-0c14fbce45b1-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp4573112pjv; Mon, 8
+ Jun 2020 09:30:59 -0700 (PDT)
+Received: from a9-68.smtp-out.amazonses.com (a9-68.smtp-out.amazonses.com.
+ [54.240.9.68]) by mx.google.com with ESMTPS id
+ 145si5092893qkf.210.2020.06.08.09.30.57 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Mon, 08 Jun 2020
+ 09:30:58 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1591633857_b9bd56db3a860a0b20cd65f42350234d_=_"
+##################################################
+Message-Id:01000172a076691b-c7cf4cfd-6603-414d-a446-d1827121e691-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp775806pjv; Wed, 10
+ Jun 2020 16:00:21 -0700 (PDT)
+Received: from a9-24.smtp-out.amazonses.com (a9-24.smtp-out.amazonses.com.
+ [54.240.9.24]) by mx.google.com with ESMTPS id
+ u17si638613qtk.81.2020.06.10.16.00.20 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Wed, 10 Jun 2020
+ 16:00:21 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1591830014_bfd63eecf04fd286b116b7f70a7fa4bd_=_"
+##################################################
+Message-Id:01000172bab07f64-348e2f8d-8508-4dd6-8fbf-e2e80a5f6574-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp2953477pjv; Mon, 15
+ Jun 2020 18:13:49 -0700 (PDT)
+Received: from a9-1.smtp-out.amazonses.com (a9-1.smtp-out.amazonses.com.
+ [54.240.9.1]) by mx.google.com with ESMTPS id
+ 189si10023311qkm.327.2020.06.15.18.13.48 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Mon, 15 Jun 2020
+ 18:13:49 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1592270028_70b5e1213dab0fbad6e3649ab2a7d8e3_=_"
+##################################################
+Message-Id:01000172c7db4511-4a17f523-1f68-4a6a-8a4c-725bf434dd78-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp1366364pjv; Thu, 18
+ Jun 2020 07:35:36 -0700 (PDT)
+Received: from a9-10.smtp-out.amazonses.com (a9-10.smtp-out.amazonses.com.
+ [54.240.9.10]) by mx.google.com with ESMTPS id
+ e23si1994284qvb.39.2020.06.18.07.35.36 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Thu, 18 Jun 2020
+ 07:35:36 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1592490935_ef6e4b1de2424293642fc3fb8b7ca0f8_=_"
+##################################################
+Message-Id:01000172d3952b13-59f6ae3e-ec45-43d5-8ff1-825ce64ca151-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp1607586pjv; Sat, 20
+ Jun 2020 14:14:28 -0700 (PDT)
+Received: from a9-13.smtp-out.amazonses.com (a9-13.smtp-out.amazonses.com.
+ [54.240.9.13]) by mx.google.com with ESMTPS id
+ 4si3851793qkc.306.2020.06.20.14.14.28 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sat, 20 Jun 2020
+ 14:14:28 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1592687667_a89c7f9b2c270a03b15097e7e24b6024_=_"
+##################################################
+Message-Id:01000172e35f4206-2ba6cc6e-7a1f-494a-968f-4e05e74a63a3-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:db05:0:0:0:0 with SMTP id g5csp82179pjv; Tue, 23 Jun
+ 2020 15:49:30 -0700 (PDT)
+Received: from a9-11.smtp-out.amazonses.com (a9-11.smtp-out.amazonses.com.
+ [54.240.9.11]) by mx.google.com with ESMTPS id
+ l13si6992187qtr.49.2020.06.23.15.49.30 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Tue, 23 Jun 2020
+ 15:49:30 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1592952570_6d13d30dfb9599715d1a5fb37a1352fe_=_"
+##################################################
+Message-Id:0100017311635e39-b2355797-ebaa-4e7f-8aca-95d26156480b-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:642:0:0:0:0 with SMTP id q2csp1634031pje; Thu, 2 Jul
+ 2020 14:16:32 -0700 (PDT)
+Received: from a9-6.smtp-out.amazonses.com (a9-6.smtp-out.amazonses.com.
+ [54.240.9.6]) by mx.google.com with ESMTPS id
+ u14si6312497qkm.188.2020.07.02.14.16.32 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Thu, 02 Jul 2020
+ 14:16:32 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1593724591_954d03993a50a0c091aa8ee49465f45f_=_"
+##################################################
+Message-Id:0100017315074f51-58eb3f38-24c7-4c3d-85d4-c716cee331ed-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:642:0:0:0:0 with SMTP id q2csp2201429pje; Fri, 3 Jul
+ 2020 07:14:28 -0700 (PDT)
+Received: from a9-86.smtp-out.amazonses.com (a9-86.smtp-out.amazonses.com.
+ [54.240.9.86]) by mx.google.com with ESMTPS id
+ t7si8046961qtd.90.2020.07.03.07.14.27 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Fri, 03 Jul 2020
+ 07:14:27 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1593785667_4d7380f5c8cbd75be4b738e88148113a_=_"
+##################################################
+Message-Id:010001731f794859-1bebc0a9-8959-4063-8e91-5f02ffd3b1bd-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:642:0:0:0:0 with SMTP id q2csp3652733pje; Sun, 5 Jul
+ 2020 07:55:09 -0700 (PDT)
+Received: from a9-22.smtp-out.amazonses.com (a9-22.smtp-out.amazonses.com.
+ [54.240.9.22]) by mx.google.com with ESMTPS id
+ q1si11135733qta.151.2020.07.05.07.55.09 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sun, 05 Jul 2020
+ 07:55:09 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1593960908_721238f51eed263965e3aa85411a62ed_=_"
+##################################################
+Message-Id:0100017333dd70be-9d8a4c4e-1552-4c70-b4e0-19846f79fd98-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:24e:0:0:0:0 with SMTP id t14csp1044210pje; Thu, 9
+ Jul 2020 06:56:58 -0700 (PDT)
+Received: from a9-26.smtp-out.amazonses.com (a9-26.smtp-out.amazonses.com.
+ [54.240.9.26]) by mx.google.com with ESMTPS id
+ h14si2587301qkn.343.2020.07.09.06.56.57 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Thu, 09 Jul 2020
+ 06:56:58 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1594303017_fe7fa15adc300dd64b5ae653da4ca574_=_"
+##################################################
+Message-Id:010001734feac5bb-348bb313-a178-4a5b-9a23-5e9267ca3f5f-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:24e:0:0:0:0 with SMTP id t14csp26941pje; Tue, 14 Jul
+ 2020 17:40:54 -0700 (PDT)
+Received: from a9-5.smtp-out.amazonses.com (a9-5.smtp-out.amazonses.com.
+ [54.240.9.5]) by mx.google.com with ESMTPS id
+ h6si243104qvl.35.2020.07.14.17.40.53 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Tue, 14 Jul 2020
+ 17:40:53 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1594773652_db44f680b7bb0a1080f7c84c3f51f80a_=_"
+##################################################
+Message-Id:010001735d488151-716a2d1d-c25b-4210-b14b-6f33cd823a6b-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:24e:0:0:0:0 with SMTP id t14csp739703pje; Fri, 17
+ Jul 2020 07:58:20 -0700 (PDT)
+Received: from a9-17.smtp-out.amazonses.com (a9-17.smtp-out.amazonses.com.
+ [54.240.9.17]) by mx.google.com with ESMTPS id
+ e7si5092117qto.13.2020.07.17.07.58.20 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Fri, 17 Jul 2020
+ 07:58:20 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1594997899_c193e0d4e60d23eaaa45ddb4e467d7c7_=_"
+##################################################
+Message-Id:0100017371f2b941-3b966390-864e-4e4d-9b5f-836c2689039d-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:24e:0:0:0:0 with SMTP id t14csp2757061pje; Tue, 21
+ Jul 2020 08:16:40 -0700 (PDT)
+Received: from a9-7.smtp-out.amazonses.com (a9-7.smtp-out.amazonses.com.
+ [54.240.9.7]) by mx.google.com with ESMTPS id
+ n2si1867882qkg.333.2020.07.21.08.16.39 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Tue, 21 Jul 2020
+ 08:16:40 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1595344599_728d1303645092cdb9ac16946c820bea_=_"
+##################################################
+Message-Id:0100017386504999-37d8f726-a1c0-4727-a938-2a167d3f7c1e-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:280c:0:0:0:0 with SMTP id e12csp238120pjd; Sat, 25
+ Jul 2020 07:11:16 -0700 (PDT)
+Received: from a9-12.smtp-out.amazonses.com (a9-12.smtp-out.amazonses.com.
+ [54.240.9.12]) by mx.google.com with ESMTPS id
+ 189si4802370qkl.232.2020.07.25.07.11.15 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sat, 25 Jul 2020
+ 07:11:16 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1595686275_3c1f6c90a92774535aeb168cc5b824f8_=_"
+##################################################
+Message-Id:01000173908ebc4e-b085e2fe-dc1c-4e36-81ac-53d1b8749a6d-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp1130236pju; Mon, 27
+ Jul 2020 06:55:41 -0700 (PDT)
+Received: from a9-17.smtp-out.amazonses.com (a9-17.smtp-out.amazonses.com.
+ [54.240.9.17]) by mx.google.com with ESMTPS id
+ y2si5134993qkf.218.2020.07.27.06.55.40 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Mon, 27 Jul 2020
+ 06:55:40 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1595858140_dc6edf8efe9c3d4968ef85c3b0abf2aa_=_"
+##################################################
+Message-Id:010001739af93eb9-205b9e25-e79b-4564-83b4-fc3dd89fdf14-000000@us-east-1.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp1462217pju; Wed, 29
+ Jul 2020 07:28:13 -0700 (PDT)
+Received: from a9-5.smtp-out.amazonses.com (a9-5.smtp-out.amazonses.com.
+ [54.240.9.5]) by mx.google.com with ESMTPS id
+ s6si1366910qtk.42.2020.07.29.07.28.13 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Wed, 29 Jul 2020
+ 07:28:13 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1596032892_3e7fd5e31f690f8112523111697b7bdc_=_"
+##################################################
+Message-Id:01000173a6d08b85-a5a8ae2f-2f98-458f-931e-b5226f6dccd0-000000@us-east-1.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp3360718pju; Fri, 31
+ Jul 2020 14:39:12 -0700 (PDT)
+Received: from a9-17.smtp-out.amazonses.com (a9-17.smtp-out.amazonses.com.
+ [54.240.9.17]) by mx.google.com with ESMTPS id
+ z124si2756379qkc.123.2020.07.31.14.39.12 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Fri, 31 Jul 2020
+ 14:39:12 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1596231551_b11f8ddc249ef40a9e24a0452a1213d1_=_"
+##################################################
+Message-Id:01000173b49e0f72-b9489b08-0779-43ef-bccd-83375a2f9855-000000@us-east-1.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp5125183pju; Mon, 3
+ Aug 2020 06:58:45 -0700 (PDT)
+Received: from a9-24.smtp-out.amazonses.com (a9-24.smtp-out.amazonses.com.
+ [54.240.9.24]) by mx.google.com with ESMTPS id
+ h7si8975044qkg.34.2020.08.03.06.58.44 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Mon, 03 Aug 2020
+ 06:58:45 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1596463124_6e83f72c89f40496fe70e62c970f80e1_=_"
+##################################################
+Message-Id:01000173c41f26b8-c258669d-5b9a-41ae-beb3-74fe0655aac5-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp1417331pju; Thu, 6
+ Aug 2020 07:14:03 -0700 (PDT)
+Received: from a9-19.smtp-out.amazonses.com (a9-19.smtp-out.amazonses.com.
+ [54.240.9.19]) by mx.google.com with ESMTPS id
+ m7si2922929qtb.289.2020.08.06.07.14.03 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Thu, 06 Aug 2020
+ 07:14:03 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1596723242_96521c7ae812ac9ab9c0a0c4c8d32cf7_=_"
+##################################################
+Message-Id:01000173d5035c13-cb6f6c4b-e74e-4efa-83a6-6e0df83bed47-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp3869149pju; Sun, 9
+ Aug 2020 13:57:14 -0700 (PDT)
+Received: from a9-17.smtp-out.amazonses.com (a9-17.smtp-out.amazonses.com.
+ [54.240.9.17]) by mx.google.com with ESMTPS id
+ e64si9434962qtd.176.2020.08.09.13.57.14 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sun, 09 Aug 2020
+ 13:57:14 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1597006633_defef0674376303179da47b347297631_=_"
+##################################################
+Message-Id:01000173e4c1d145-ce1c5d02-b967-4820-a2e5-665d5dedcedf-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp695822pju; Wed, 12
+ Aug 2020 15:19:34 -0700 (PDT)
+Received: from a9-8.smtp-out.amazonses.com (a9-8.smtp-out.amazonses.com.
+ [54.240.9.8]) by mx.google.com with ESMTPS id
+ i4si2148823qki.223.2020.08.12.15.19.34 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Wed, 12 Aug 2020
+ 15:19:34 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1597270774_1cd222859853ae03247f13873ff2e301_=_"
+##################################################
+Message-Id:01000173f2738039-c7157c72-af4f-41f0-872c-90529f5ea22d-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp1040873pju; Sat, 15
+ Aug 2020 07:08:43 -0700 (PDT)
+Received: from a9-11.smtp-out.amazonses.com (a9-11.smtp-out.amazonses.com.
+ [54.240.9.11]) by mx.google.com with ESMTPS id
+ s129si7532268qke.89.2020.08.15.07.08.42 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sat, 15 Aug 2020
+ 07:08:43 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1597500522_0b17828a492761ce38e3de2343466bd9_=_"
+##################################################
+Message-Id:01000173fca4d9ca-21cffb37-ca32-4892-8757-5874921af2fb-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp2321553pju; Mon, 17
+ Aug 2020 06:38:49 -0700 (PDT)
+Received: from a9-44.smtp-out.amazonses.com (a9-44.smtp-out.amazonses.com.
+ [54.240.9.44]) by mx.google.com with ESMTPS id
+ t17si11621105qvm.151.2020.08.17.06.38.49 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Mon, 17 Aug 2020
+ 06:38:49 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1597671528_78a48e302e672490bf29d76820575cb9_=_"
+##################################################
+Message-Id:01000174072dc487-19b6afd6-9efd-413d-b512-c217730037a0-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp524474pju; Wed, 19
+ Aug 2020 07:44:35 -0700 (PDT)
+Received: from a9-4.smtp-out.amazonses.com (a9-4.smtp-out.amazonses.com.
+ [54.240.9.4]) by mx.google.com with ESMTPS id
+ l4si15931885qki.141.2020.08.19.07.44.34 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Wed, 19 Aug 2020
+ 07:44:34 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1597848273_d62d7726a7177430b35f012c2a861697_=_"
+##################################################
+Message-Id:010001741183a750-6a70ca47-78fb-46a1-8e8e-245a6f55a088-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90a:cb8b:0:0:0:0 with SMTP id a11csp427716pju; Fri, 21
+ Aug 2020 07:54:35 -0700 (PDT)
+Received: from a9-12.smtp-out.amazonses.com (a9-12.smtp-out.amazonses.com.
+ [54.240.9.12]) by mx.google.com with ESMTPS id
+ u44si1331880qte.281.2020.08.21.07.54.35 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Fri, 21 Aug 2020
+ 07:54:35 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1598021674_533462714c490b17b541bc814c8eb5dd_=_"
+##################################################
+Message-Id:0100017418290746-0dedd1f4-4684-4f1f-b6e5-1fc0333e5a6c-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90b:4306:0:0:0:0 with SMTP id ih6csp308646pjb; Sat, 22
+ Aug 2020 14:52:57 -0700 (PDT)
+Received: from a9-4.smtp-out.amazonses.com (a9-4.smtp-out.amazonses.com.
+ [54.240.9.4]) by mx.google.com with ESMTPS id
+ bl16si4604629qvb.55.2020.08.22.14.52.56 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sat, 22 Aug 2020
+ 14:52:56 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1598133176_b9b2ae9f72f11b4934656d890d725360_=_"
+##################################################
+Message-Id:010001741b982376-ced11c06-328b-4452-8fbd-c86a8e7c9675-000000@email.amazonses.com
+From: Adagio Teas <contacto@adagio.cl>
+Email:contacto@adagio.cl
+Received: by 2002:a17:90b:4306:0:0:0:0 with SMTP id ih6csp701167pjb; Sun, 23
+ Aug 2020 06:53:10 -0700 (PDT)
+Received: from a14-146.smtp-out.amazonses.com (a14-146.smtp-out.amazonses.com.
+ [54.240.14.146]) by mx.google.com with ESMTPS id
+ m64si6064122qtd.138.2020.08.23.06.53.09 for <diego.becerra1994@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128); Sun, 23 Aug 2020
+ 06:53:10 -0700 (PDT)
+UTC:-0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1598190789_6e6ee4e0eb6b5b458a4a8fd490ff6e13_=_"
+##################################################

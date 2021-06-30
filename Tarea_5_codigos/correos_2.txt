@@ -1,0 +1,720 @@
+Message-Id:811281111.476427031.1564064156615.JavaMail.root@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:bf94:0:0:0:0 with SMTP id d20csp10941256pjs; Thu, 25
+ Jul 2019 07:15:57 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id m52si14768883qtk.11.2019.07.25.07.15.56 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 25 Jul 2019 07:15:57
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:55830] helo=abmas01.marketo.org) by
+ abmta31.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id B2/B6-31389-C99B93D5; Thu, 25 Jul
+ 2019 09:15:56 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_476427030_1524693488.1564064156615"
+##################################################
+Message-Id:1317452563.-1771268312.1564668725622.JavaMail.root@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:bf94:0:0:0:0 with SMTP id d20csp7201897pjs; Thu, 1
+ Aug 2019 07:12:06 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id n65si40120193qte.319.2019.08.01.07.12.06 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 01 Aug 2019 07:12:06
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:32884] helo=abmas03.marketo.org) by
+ abmta03.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 67/13-61005-533F24D5; Thu, 01 Aug
+ 2019 09:12:05 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-1771268313_2007817322.1564668725622"
+##################################################
+Message-Id:1827349204.20247860.1565273616649.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:bf94:0:0:0:0 with SMTP id d20csp8099450pjs; Thu, 8
+ Aug 2019 07:20:38 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id c62si1676319wme.128.2019.08.08.07.20.37 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 08 Aug 2019 07:20:38
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:60778] helo=abmas02.marketo.org) by
+ abmta33.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 81/53-17030-01E2C4D5; Thu, 08 Aug
+ 2019 09:13:36 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_20247857_977050477.1565273616649"
+##################################################
+Message-Id:1347390846.156877085.1565702099749.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:bf94:0:0:0:0 with SMTP id d20csp1006544pjs; Tue, 13
+ Aug 2019 06:15:00 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id l14si4510837qta.364.2019.08.13.06.14.59 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 13 Aug 2019 06:15:00
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:51812] helo=abmas01.marketo.org) by
+ abmta23.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 54/85-04012-3D7B25D5; Tue, 13 Aug
+ 2019 08:14:59 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_156877083_430486928.1565702099748"
+##################################################
+Message-Id:724492549.258719092.1565874058257.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:bf94:0:0:0:0 with SMTP id d20csp2065918pjs; Thu, 15
+ Aug 2019 06:00:59 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id d51si1505582qta.48.2019.08.15.06.00.58 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 15 Aug 2019 06:00:59
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:50066] helo=abmas02.marketo.org) by
+ abmta08.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 63/D3-09744-A87555D5; Thu, 15 Aug
+ 2019 08:00:58 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_258719089_1078544434.1565874058251"
+##################################################
+Message-Id:295050991.460172591.1566399693088.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:bf94:0:0:0:0 with SMTP id d20csp884511pjs; Wed, 21
+ Aug 2019 08:01:33 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id g52si13514678qtc.130.2019.08.21.08.01.33 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 21 Aug 2019 08:01:33
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:52406] helo=abmas02.marketo.org) by
+ abmta21.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 90/64-14243-DCC5D5D5; Wed, 21 Aug
+ 2019 10:01:33 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_460172590_2127759532.1566399693088"
+##################################################
+Message-Id:85291850.464886745.1566478841622.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:bf94:0:0:0:0 with SMTP id d20csp871351pjs; Thu, 22
+ Aug 2019 06:00:43 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id z58si10872721qvc.53.2019.08.22.06.00.43 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 22 Aug 2019 06:00:43
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:55821] helo=abmas01.marketo.org) by
+ abmta08.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 5F/13-51114-9F19E5D5; Thu, 22 Aug
+ 2019 08:00:41 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_464886744_965841853.1566478841622"
+##################################################
+Message-Id:1237956105.651257468.1566911019092.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:19c1:0:0:0:0 with SMTP id 1csp1461275pjj; Tue, 27
+ Aug 2019 06:03:40 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id q7si10169959qkj.327.2019.08.27.06.03.39 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 27 Aug 2019 06:03:40
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:35038] helo=abmas02.marketo.org) by
+ abmta08.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 65/5D-48975-B2A256D5; Tue, 27 Aug
+ 2019 08:03:39 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_651257467_1453903940.1566911019091"
+##################################################
+Message-Id:1193101880.745094869.1567083622626.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:19c1:0:0:0:0 with SMTP id 1csp2221591pjj; Thu, 29
+ Aug 2019 06:00:23 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id e24si1728490qvh.136.2019.08.29.06.00.22 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 29 Aug 2019 06:00:23
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:49484] helo=abmas02.marketo.org) by
+ abmta08.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id CC/66-48975-66CC76D5; Thu, 29 Aug
+ 2019 08:00:22 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_745094868_205444500.1567083622626"
+##################################################
+Message-Id:2077742153.1107294096.1567609248438.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:19c1:0:0:0:0 with SMTP id 1csp887655pjj; Wed, 4 Sep
+ 2019 08:00:58 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id f26si14986131qkg.165.2019.09.04.08.00.58 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 04 Sep 2019 08:00:58
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:43500] helo=abmas03.marketo.org) by
+ abmta10.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id C1/D2-10041-0A1DF6D5; Wed, 04 Sep
+ 2019 10:00:48 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1107294093_1175036237.1567609248438"
+##################################################
+Message-Id:1394864070.1038857062.1567774829926.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp270581pjb; Fri, 6 Sep
+ 2019 06:00:30 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id o11si755099qvf.217.2019.09.06.06.00.30 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Fri, 06 Sep 2019 06:00:30
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:38440] helo=abmas02.marketo.org) by
+ abmta20.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 24/51-24488-D68527D5; Fri, 06 Sep
+ 2019 08:00:29 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1038857059_1622452067.1567774829926"
+##################################################
+Message-Id:2035602843.1350882301.1568120430532.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp5218260pjb; Tue, 10
+ Sep 2019 06:00:32 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id k185si13077957qkc.49.2019.09.10.06.00.31 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 10 Sep 2019 06:00:31
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:43432] helo=abmas03.marketo.org) by
+ abmta40.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 5A/E8-52564-E6E977D5; Tue, 10 Sep
+ 2019 08:00:30 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1350882299_85737301.1568120430532"
+##################################################
+Message-Id:649047835.1173915015.1568293274232.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp2177731pjb; Thu, 12
+ Sep 2019 06:01:33 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id o38si2671159qve.161.2019.09.12.06.01.33 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 12 Sep 2019 06:01:33
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:36104] helo=abmas01.marketo.org) by
+ abmta21.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 1B/6D-02912-A914A7D5; Thu, 12 Sep
+ 2019 08:01:14 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1173915014_55831284.1568293274232"
+##################################################
+Message-Id:1959182621.1525708870.1568898040564.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp826279pjb; Thu, 19
+ Sep 2019 06:00:41 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id g19si5860595qkl.234.2019.09.19.06.00.40 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 19 Sep 2019 06:00:41
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:54465] helo=abmas02.marketo.org) by
+ abmta30.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 9E/74-24714-8FB738D5; Thu, 19 Sep
+ 2019 08:00:40 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1525708866_2063099627.1568898040563"
+##################################################
+Message-Id:534544028.1683948579.1569330089431.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp4010600pjb; Tue, 24
+ Sep 2019 06:01:32 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id h92si1003457qtd.83.2019.09.24.06.01.32 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 24 Sep 2019 06:01:32
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:48056] helo=abmas02.marketo.org) by
+ abmta23.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 3C/33-02305-9A31A8D5; Tue, 24 Sep
+ 2019 08:01:29 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1683948577_1503671814.1569330089431"
+##################################################
+Message-Id:1147953510.1784431205.1569502824095.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp2068019pjb; Thu, 26
+ Sep 2019 06:00:25 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id 69si1606739qkh.184.2019.09.26.06.00.24 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 26 Sep 2019 06:00:24
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:46241] helo=abmas02.marketo.org) by
+ abmta21.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 02/A0-21635-866BC8D5; Thu, 26 Sep
+ 2019 08:00:24 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1784431202_1475173652.1569502824095"
+##################################################
+Message-Id:39972068.1895985777.1570028471422.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp921468pjb; Wed, 2 Oct
+ 2019 08:01:12 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id i54si18632657qvh.117.2019.10.02.08.01.11 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 02 Oct 2019 08:01:11
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:36027] helo=abmas01.marketo.org) by
+ abmta34.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id CB/2B-53053-7BBB49D5; Wed, 02 Oct
+ 2019 10:01:11 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1895985774_1927131887.1570028471421"
+##################################################
+Message-Id:678642115.-1875935988.1570107631095.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp274262pjb; Thu, 3 Oct
+ 2019 06:00:31 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id p58si2303631qtc.131.2019.10.03.06.00.31 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 03 Oct 2019 06:00:31
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:50058] helo=abmas03.marketo.org) by
+ abmta31.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 7F/9E-02808-FE0F59D5; Thu, 03 Oct
+ 2019 08:00:31 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-1875935990_1017506865.1570107631094"
+##################################################
+Message-Id:1183160401.-2070428303.1570539663396.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp5520047pjb; Tue, 8
+ Oct 2019 06:01:03 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id u8si16441007qtc.114.2019.10.08.06.01.03 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 08 Oct 2019 06:01:03
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:57283] helo=abmas02.marketo.org) by
+ abmta25.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id D2/AC-23806-F888C9D5; Tue, 08 Oct
+ 2019 08:01:03 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-2070428304_853862448.1570539663396"
+##################################################
+Message-Id:842559808.-1571668353.1570712444059.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp2239526pjb; Thu, 10
+ Oct 2019 06:00:44 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id y48si5825168qta.45.2019.10.10.06.00.44 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 10 Oct 2019 06:00:44
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:37780] helo=abmas03.marketo.org) by
+ abmta24.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id AB/8A-04467-C7B2F9D5; Thu, 10 Oct
+ 2019 08:00:44 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-1571668354_1259663859.1570712444059"
+##################################################
+Message-Id:853638601.-1703715749.1571324496740.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp930136pjb; Thu, 17
+ Oct 2019 08:01:37 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id d135si2351859qke.176.2019.10.17.08.01.36 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 17 Oct 2019 08:01:37
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:54094] helo=abmas02.marketo.org) by
+ abmta27.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 45/4F-04184-05288AD5; Thu, 17 Oct
+ 2019 10:01:36 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-1703715750_1294720852.1571324496739"
+##################################################
+Message-Id:1287245095.-1034881604.1571835644060.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp685263pjb; Wed, 23
+ Oct 2019 06:00:44 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id n15si17556288qkg.41.2019.10.23.06.00.44 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 23 Oct 2019 06:00:44
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:56100] helo=abmas03.marketo.org) by
+ abmta32.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id BA/84-04953-CFE40BD5; Wed, 23 Oct
+ 2019 08:00:44 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-1034881606_146504829.1571835644059"
+##################################################
+Message-Id:1704865938.-971563753.1571929292321.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:3502:0:0:0:0 with SMTP id q2csp2257055pjb; Thu, 24
+ Oct 2019 08:01:35 -0700 (PDT)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id b11si21410985qta.343.2019.10.24.08.01.34 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 24 Oct 2019 08:01:34
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:39506] helo=abmas03.marketo.org) by
+ abmta21.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 99/98-04676-CCCB1BD5; Thu, 24 Oct
+ 2019 10:01:32 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-971563765_677915123.1571929292318"
+##################################################
+Message-Id:116261279.19010855.1572534045628.JavaMail.mktmail@abmas05.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:d80b:0:0:0:0 with SMTP id a11csp1391479pjv; Thu, 31
+ Oct 2019 08:00:46 -0700 (PDT)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id u5si4566093qka.120.2019.10.31.08.00.45 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 31 Oct 2019 08:00:46
+ -0700 (PDT)
+Received: from [10.1.87.249] ([10.1.87.249:35276] helo=abmas05.marketo.org) by
+ abmta11.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id E6/87-62035-D17FABD5; Thu, 31 Oct
+ 2019 10:00:45 -0500
+UTC:-0500
+Content-Type: multipart/alternative;
+ boundary="----=_Part_19010852_670263814.1572534045627"
+##################################################
+Message-Id:223510606.-601328737.1572958844183.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:d80b:0:0:0:0 with SMTP id a11csp633467pjv; Tue, 5
+ Nov 2019 05:00:44 -0800 (PST)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id a2si14026011qth.381.2019.11.05.05.00.44 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 05 Nov 2019 05:00:44
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:35776] helo=abmas03.marketo.org) by
+ abmta12.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 4B/1A-50714-C7271CD5; Tue, 05 Nov
+ 2019 07:00:44 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-601328740_31275607.1572958844183"
+##################################################
+Message-Id:584373583.121409636.1573138851018.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:7d18:0:0:0:0 with SMTP id g24csp276445pjl; Thu, 7
+ Nov 2019 07:00:51 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id f14si1135846qkg.220.2019.11.07.07.00.51 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 07 Nov 2019 07:00:51
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:54422] helo=abmas01.marketo.org) by
+ abmta16.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id CD/08-26743-3A134CD5; Thu, 07 Nov
+ 2019 09:00:51 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_121409634_1915005473.1573138851018"
+##################################################
+Message-Id:1156364997.307747545.1573657246105.JavaMail.mktmail@abmas05.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:1581:0:0:0:0 with SMTP id m1csp5250108pja; Wed, 13
+ Nov 2019 07:00:48 -0800 (PST)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id az2si1225543qvb.141.2019.11.13.07.00.47 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 13 Nov 2019 07:00:48
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:51740] helo=abmas05.marketo.org) by
+ abmta12.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 0C/04-31279-E9A1CCD5; Wed, 13 Nov
+ 2019 09:00:46 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_307747544_275878471.1573657246105"
+##################################################
+Message-Id:455371512.388006476.1573736416441.JavaMail.mktmail@abmas04.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:1581:0:0:0:0 with SMTP id m1csp6521096pja; Thu, 14
+ Nov 2019 05:00:18 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id e6si3233009qvh.160.2019.11.14.05.00.17 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 14 Nov 2019 05:00:17
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:53452] helo=abmas04.marketo.org) by
+ abmta08.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 30/BE-18895-0EF4DCD5; Thu, 14 Nov
+ 2019 07:00:16 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_388006475_1186505859.1573736416441"
+##################################################
+Message-Id:408176045.352581174.1574168453649.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:1581:0:0:0:0 with SMTP id m1csp457011pja; Tue, 19
+ Nov 2019 05:00:54 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id s3si13832379qth.27.2019.11.19.05.00.53 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 19 Nov 2019 05:00:54
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:59175] helo=abmas01.marketo.org) by
+ abmta07.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 53/5E-53972-587E3DD5; Tue, 19 Nov
+ 2019 07:00:53 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_352581173_1281537713.1574168453649"
+##################################################
+Message-Id:1119891222.-229913234.1574341215661.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:1581:0:0:0:0 with SMTP id m1csp3316785pja; Thu, 21
+ Nov 2019 05:00:16 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id y3si631608qkl.151.2019.11.21.05.00.15 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 21 Nov 2019 05:00:16
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:58388] helo=abmas03.marketo.org) by
+ abmta28.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id C4/E2-23109-F5A86DD5; Thu, 21 Nov
+ 2019 07:00:15 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-229913236_326682901.1574341215661"
+##################################################
+Message-Id:1218621543.666534369.1575378047234.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:fc83:0:0:0:0 with SMTP id ci3csp262433pjb; Tue, 3
+ Dec 2019 05:01:01 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id e1si1793815qvt.165.2019.12.03.05.01.01 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 03 Dec 2019 05:01:01
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:34746] helo=abmas01.marketo.org) by
+ abmta12.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id AB/EE-35223-F7C56ED5; Tue, 03 Dec
+ 2019 07:00:47 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_666534368_186060800.1575378047233"
+##################################################
+Message-Id:389513466.730267393.1575550831692.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:fc83:0:0:0:0 with SMTP id ci3csp1843465pjb; Thu, 5
+ Dec 2019 05:00:48 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id p28si6263117qta.201.2019.12.05.05.00.47 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 05 Dec 2019 05:00:48
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:37484] helo=abmas01.marketo.org) by
+ abmta22.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id A6/C7-14346-F6FF8ED5; Thu, 05 Dec
+ 2019 07:00:31 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_730267391_770018978.1575550831691"
+##################################################
+Message-Id:2019904318.1006151116.1576076455174.JavaMail.mktmail@abmas05.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:fc83:0:0:0:0 with SMTP id ci3csp777789pjb; Wed, 11
+ Dec 2019 07:01:25 -0800 (PST)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id 26si1188981qvy.119.2019.12.11.07.01.25 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 11 Dec 2019 07:01:25
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:44892] helo=abmas05.marketo.org) by
+ abmta25.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 10/7D-13407-7A401FD5; Wed, 11 Dec
+ 2019 09:00:55 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1006151115_1255009493.1576076455174"
+##################################################
+Message-Id:227056832.1082254629.1576155623751.JavaMail.mktmail@abmas04.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:fc83:0:0:0:0 with SMTP id ci3csp667361pjb; Thu, 12
+ Dec 2019 05:00:25 -0800 (PST)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id p54si2652176qtj.277.2019.12.12.05.00.24 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 12 Dec 2019 05:00:25
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:44822] helo=abmas04.marketo.org) by
+ abmta05.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id B5/76-16529-7E932FD5; Thu, 12 Dec
+ 2019 07:00:23 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1082254627_1925222837.1576155623750"
+##################################################
+Message-Id:389394494.407744387.1576587634665.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90a:fc83:0:0:0:0 with SMTP id ci3csp5561530pjb; Tue, 17
+ Dec 2019 05:00:35 -0800 (PST)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id q5si7164418qtr.235.2019.12.17.05.00.34 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Tue, 17 Dec 2019 05:00:34
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:46422] helo=abmas03.marketo.org) by
+ abmta25.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 7D/4F-31825-271D8FD5; Tue, 17 Dec
+ 2019 07:00:34 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_407744385_2004612133.1576587634665"
+##################################################
+Message-Id:587053057.-104385720.1576760419247.JavaMail.mktmail@abmas02.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90b:46c4:0:0:0:0 with SMTP id jx4csp2087031pjb; Thu, 19
+ Dec 2019 05:00:24 -0800 (PST)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id 84si3439972qkd.230.2019.12.19.05.00.23 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 19 Dec 2019 05:00:23
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:39828] helo=abmas02.marketo.org) by
+ abmta11.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id D9/E8-13592-3647BFD5; Thu, 19 Dec
+ 2019 07:00:19 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_-104385721_1712293607.1576760419247"
+##################################################
+Message-Id:1374837624.855067522.1578574817272.JavaMail.mktmail@abmas03.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90b:46c4:0:0:0:0 with SMTP id jx4csp1971845pjb; Thu, 9
+ Jan 2020 05:00:18 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id q17si3283030qtb.260.2020.01.09.05.00.18 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 09 Jan 2020 05:00:18
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:41292] helo=abmas03.marketo.org) by
+ abmta02.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id 1B/DF-52553-1E3271E5; Thu, 09 Jan
+ 2020 07:00:17 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_855067520_1006983355.1578574817272"
+##################################################
+Message-Id:1702022505.121979210.1579100441034.JavaMail.mktmail@abmas01.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90b:46c4:0:0:0:0 with SMTP id jx4csp7253388pjb; Wed, 15
+ Jan 2020 07:00:42 -0800 (PST)
+Received: from deliver1.ieee.org (deliver1.ieee.org. [192.28.153.162]) by
+ mx.google.com with ESMTPS id m30si11009216qtc.120.2020.01.15.07.00.42 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Wed, 15 Jan 2020 07:00:42
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:35828] helo=abmas01.marketo.org) by
+ abmta16.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id B3/1E-06685-9192F1E5; Wed, 15 Jan
+ 2020 09:00:41 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_121979209_989867326.1579100441034"
+##################################################
+Message-Id:1790408021.1759066332.1579179622323.JavaMail.mktmail@abmas05.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90b:46c4:0:0:0:0 with SMTP id jx4csp8528957pjb; Thu, 16
+ Jan 2020 05:00:24 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id 89si12270185qta.317.2020.01.16.05.00.23 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 16 Jan 2020 05:00:24
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:42880] helo=abmas05.marketo.org) by
+ abmta41.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id AE/E0-10303-66E502E5; Thu, 16 Jan
+ 2020 07:00:22 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1759066331_1576662504.1579179622323"
+##################################################
+Message-Id:988969203.1923947981.1579784419922.JavaMail.mktmail@abmas05.marketo.org
+From: IEEE Spectrum <ieee-spectrum@deliver.ieee.org>
+Email:ieee-spectrum@deliver.ieee.org
+Received: by 2002:a17:90b:46c4:0:0:0:0 with SMTP id jx4csp692941pjb; Thu, 23
+ Jan 2020 05:00:20 -0800 (PST)
+Received: from deliver.ieee.org (deliver.ieee.org. [192.28.153.150]) by
+ mx.google.com with ESMTPS id e17si1257599qtg.57.2020.01.23.05.00.20 for
+ <diego.becerra1994@gmail.com> (version=TLS1_2
+ cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 23 Jan 2020 05:00:20
+ -0800 (PST)
+Received: from [10.1.87.249] ([10.1.87.249:53926] helo=abmas05.marketo.org) by
+ abmta07.marketo.org (envelope-from <ieee-spectrum@deliver.ieee.org>)
+ (ecelerity 4.2.38.62370 r(:)) with ESMTP id B6/CA-39494-3E8992E5; Thu, 23 Jan
+ 2020 07:00:19 -0600
+UTC:-0600
+Content-Type: multipart/alternative;
+ boundary="----=_Part_1923947978_1994669032.1579784419922"
+##################################################
